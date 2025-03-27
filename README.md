@@ -1,8 +1,5 @@
 Olá ✨
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estou estudando para me tornar uma desenvolvedora Fullstack
-- 📫 How to reach me: sarahbrittog@gmail.com
 - ⚡ Fun fact: Estou nos anos finais da graduação em Física e também curso Análise e desenvolvimento de sistemas 🐱‍👤
 
 
